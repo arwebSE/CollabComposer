@@ -1,8 +1,8 @@
 {
-  "name": "theorytracker",
-  "version": "0.1.0",
+  "name": "collabcomposer",
+  "version": "0.0.1",
   "description": "",
-  "author": "hlorenzi",
+  "author": "ARWeb",
   "private": true,
   "main": "index.js",
   "type": "module",
